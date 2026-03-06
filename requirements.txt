@@ -1,3 +1,4 @@
 streamlit
-openai
+Groq
+plotly
 PyPDF2
