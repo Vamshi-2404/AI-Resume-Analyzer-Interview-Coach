@@ -1,5 +1,6 @@
 streamlit
-Groq
 plotly
+groq
 PyPDF2
+fpdf
 python-dotenv
